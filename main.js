@@ -23,6 +23,7 @@ function getData() {
   console.log('Simultaneous Request');
 }
 
+
 // CUSTOM HEADERS
 function customHeaders() {
   console.log('Custom Headers');
